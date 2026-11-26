@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "windows-linux-proton-compatibility",
+  "repository": "https://github.com/jpgordon00/ci-windows-linux-proton-compatibility",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/windows-linux-proton-compatibility/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/windows-linux-proton-compatibility",
+  "catalog_commit": "f51b30f7ce3208bd3264f623eec19752dd973433"
+}
